@@ -1,0 +1,35 @@
+# Ignore system & config folders
+.idea/
+.vscode/
+
+# Ignore your personal folders
+10 RESEARCH/
+MICROSOFT/
+PROJECT/
+11 OPERATING SYSTEM/
+12 PRACTICE/
+13 DSA in C/
+14 OTHERS/
+16 DIP/
+17 TEST/
+18 PILLOW/
+01 C/
+02HTML/
+03CSS/
+04JAVA SCRIPT/
+05JAVA/
+07 SELENIUM/
+06 PYTHON/
+08 TURTLE/
+09 RUBY/
+20 Prooject telegram/
+ai-chatbot-project/
+AML/
+C++/
+Git_Photoes/
+handwritten-digit-recognition/
+house_data/
+ML/
+Photo_app/
+MY WEB/
+SpeechProcessing/
